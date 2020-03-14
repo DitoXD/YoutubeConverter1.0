@@ -1,0 +1,33 @@
+name: youtube_converter
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+  youtube_extractor: ^1.0.4
+  flutter_custom_tabs: "^0.6.0"
+  path_provider: ^1.4.0
+  http: '>=0.11.3+12'
+  flutter_file_manager: ^0.2.0
+  dio: any
+  open_file: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/youtubeLogo.png
