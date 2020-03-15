@@ -1,6 +1,11 @@
 # youtube_converter
 
-A new Flutter application.
+A new Flutter application that allows the user to download 
+Youtube videos in either audio or video format and display 
+them. 
+
+### N.B. Each file upon saving will require a name. 
+### Capable of downloading 2 or more files however display does not support such.
 
 ## Getting Started
 
